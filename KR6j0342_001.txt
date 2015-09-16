@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:34.318037
+#+DATE: 2015-08-30 20:30:35.359299
 #+TITLE: 佛說普賢菩薩陀羅尼經
 #+PROPERTY: CBETA_ID T20n1127
 #+PROPERTY: ID KR6j0342
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1127
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0342_T_000-0541c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0342_T_001-0541c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1127¶
-
- 佛說普賢菩薩陀羅尼經¶
+No. 1127¶
+佛說普賢菩薩陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
-傳教大師臣法天奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸依普遍虛空界
