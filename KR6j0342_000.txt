@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說普賢菩薩陀羅尼經
+#+DATE: 2015-08-30 20:30:34.528534
+#+PROPERTY: JUAN 0
